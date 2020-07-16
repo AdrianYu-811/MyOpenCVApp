@@ -15,6 +15,8 @@ import org.opencv.core.Mat;
 
 import java.io.IOException;
 
+//This is Adrian's project
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
